@@ -1,0 +1,12 @@
+body {
+  background-color: #cccccc; font-family: monospace;
+}
+
+div.cross {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 50%;
+  opacity: 5%;
+  font-size:888px;
+}
